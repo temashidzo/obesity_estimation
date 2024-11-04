@@ -56,7 +56,7 @@ This project showcases how data-driven techniques can estimate obesity levels, e
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/yourusername/obesity-estimation.git
+   git clone https://github.com/temashidzo/obesity-estimation.git
 2. **Install Required Packages**
    pip install -r requirements.txt
 3. Run the Analysis Execute the Jupyter notebook or Python script to view the data exploration and model results.
